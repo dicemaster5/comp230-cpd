@@ -21,20 +21,25 @@ This week we chose a prototype to go forward with to develop the game around
 - Lots of progress was made in making the team game
 
 ## Week 5
-
+Lots of work was done on the game basuic UI was implemneted by me.
 
 ## Week 6
+Learning lots of new OpenGL, started the worksheets.
 
 ## Week 7
+Started working on the VR game, good progress was made on that. 
 
 ## Week 8
+The game now has a full game loop and can be won and lost (kinda). Vr game now works in VR.
 
 ## Week 9
+OpenGL graphics demo has been going well and I am no working on a grass shader.
 
 ## Week 10
+The group game has been coming along fairly well, many new levels to be played and had a good playtesting session with people form the studio
 
 ## Week 11
+not much was done on the group game, VR game has been finished quite pleased with it.
 
 ## Week 12
-
-## Week 13
+finished up some loose ends on my graphics demo.
